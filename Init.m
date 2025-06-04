@@ -18,7 +18,6 @@ psi0=0; %rad yaw
 xE0=0; %meters
 yE0=0; %meters
 zE0=-h;%meters
-bless
 %% Atmosphere model
 rho_0 = 1.225; %Density at sea level in kg/m3
 H = 8400; %Scale height in meters;
